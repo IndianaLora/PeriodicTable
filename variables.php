@@ -1,0 +1,8 @@
+
+<?php
+
+$nombre="Indiana";
+
+
+
+?>

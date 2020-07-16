@@ -1,0 +1,73 @@
+.otros-no-metales{
+background-color: rgb(115, 158, 115);
+}
+*{
+    background-color:white;
+}
+td{
+    width: 2em;
+    border: 3px solid white;
+    height: 30px;
+    text-align: center;
+    
+}
+
+.margen{
+    margin-top: 50px;
+}
+table{
+    border-collapse: collapse;
+    
+    
+}
+.container{
+    margin-left: 400px;
+    padding-top: 30px;
+
+    
+}
+.gris{
+    background-color: grey;
+    border: 0;
+}
+
+.transparente{
+
+border: 0;
+
+}
+.gases-nobles{
+    background-color: rgb(175, 207, 212);
+}
+.Metales{
+    background-color: rgb(175, 207, 212);
+}
+.alcalinos{
+
+background-color: rgb(192, 150, 231);
+
+}
+.alcalinotérreos{
+
+background-color: rgb(207, 151, 207);
+
+}
+.metaloides{
+    background-color: rgb(209, 226, 135);
+}
+.halagenos{
+    background-color:rgb(181, 181, 240) ;
+}
+.metales-de-transicion{
+    background-color: rgb(248, 173, 34);
+}
+.otros-metales{
+    background-color: rgb(248, 248, 63);
+}
+.lantanidos{
+    background-color: rgb(250, 166, 117);
+    
+}
+.actinidos{
+    background-color: rgb(202, 124, 124);
+}
