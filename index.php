@@ -130,7 +130,7 @@
             ['nombre' => 'Lv', 'fila' => 6, 'columna' => 15, 'grupo' => 'otros-metales'],
             ['nombre' => 'Ts', 'fila' => 6, 'columna' => 16, 'grupo' => 'halagenos'],
             ['nombre' => 'Og', 'fila' => 6, 'columna' => 17, 'grupo' => 'gases-nobles'],
-            ['nombre' => 'Uue', 'fila' => 7, 'columna' => 0, 'grupo' => 'unknown, but predicted to be an alcalinos'],
+            ['nombre' => 'Uue', 'fila' => 7, 'columna' => 0, 'grupo' => 'alcalinos'],
         ];
         $grupos = [
             ['nombre' => 'Alcalinos', 'fila' => 10, 'columna' => 0, 'grupo' => 'alcalinos'],
